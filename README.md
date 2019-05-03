@@ -3,3 +3,7 @@ Formulário de login transparente com o texto do placeholder flutuante, usando a
 
 
 Inicio da série de estudos avançados com CSS.
+
+
+
+![](login-transparente.gif)
